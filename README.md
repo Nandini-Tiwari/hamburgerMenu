@@ -1,4 +1,4 @@
-# Responsive Hamburger Menu Project
+# Responsive Hamburger Menu
 
 This repository contains a simple yet responsive hamburger menu created using HTML, CSS, and JavaScript. The menu is designed to provide a clean and user-friendly navigation experience for various screen sizes.
 
